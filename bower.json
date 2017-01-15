@@ -1,8 +1,8 @@
 {
-  "name": "bootstrap-datetimepicker-bindep",
+  "name": "bootstrap-datetimepicker",
   "version": "4.7.14", 
   "main": [ 
-	"src/less/_bootstrap-datetimepicker.less",
+	"src/less/bootstrap-datetimepicker-build.less",
     "src/js/bootstrap-datetimepicker.js"
   ],
   "dependencies": {
